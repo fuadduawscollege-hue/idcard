@@ -11,9 +11,9 @@ import numpy as np
 
 st.set_page_config(page_title="আইডি কার্ড", layout="centered")
 
-FONT_DIR     = "fonts"
-FONT_BOLD    = os.path.join(FONT_DIR, "NotoSansBengali-Bold.ttf")
-FONT_REGULAR = os.path.join(FONT_DIR, "NotoSansBengali-Regular.ttf")
+FONT_DIR     = ""
+FONT_BOLD    = "NotoSansBengali-Bold.ttf"
+FONT_REGULAR = "NotoSansBengali-Regular.ttf"
 ASSET_DIR    = "assets"
 DEFAULT_LOGO = os.path.join(ASSET_DIR, "logo.png")
 DEFAULT_SIGN = os.path.join(ASSET_DIR, "signature.png")
