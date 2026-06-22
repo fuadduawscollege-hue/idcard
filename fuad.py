@@ -1,6 +1,6 @@
 """
 আব্দুল ওদুদ শাহ ডিগ্রি কলেজ - শিক্ষক আইডি কার্ড
-streamlit run app-2.py
+streamlit run fuad.py
 """
 import streamlit as st
 from PIL import Image, ImageDraw, ImageOps
