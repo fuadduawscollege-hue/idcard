@@ -1,0 +1,4 @@
+streamlit
+pillow
+uharfbuzz
+freetype-py
